@@ -1,0 +1,14 @@
+Billy Bob~run~2021~04~17~4.2
+Jimmy Joe~swim~2021~04~17~0.45
+Bobby Sue~bike~2021~04~17~18.6
+Sue Ellen~run~2021~04~18~6.1
+Billy Bob~run~2021~04~18~3.4
+Billy Bob~bike~2021~04~18~34.8
+Jimmy Joe~swim~2021~04~18~.8
+Bobby Sue~bike~2021~04~18~28.0
+Bobby Sue~bike~2021~04~18~21.9
+Billy Bob~run~2021~04~19~1.0
+Billy Bob~bike~2021~04~19~55.2
+Bobby Sue~bike~2021~04~19~22.8
+Jimmy Joe~swim~2021~04~20~1.0
+Sue Ellen~swim~2021~04~18~1.2
